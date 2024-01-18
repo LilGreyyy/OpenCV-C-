@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/night.LAPTOP-SVBS9GCE/Desktop/PRAKSE RTU/opencv/build/include",
+                "C:/Users/night.LAPTOP-SVBS9GCE/Desktop/PRAKSE RTU/opencv/build/x64/vc16/lib"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/w64devkit/bin/gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64"    
+        }
+    ],
+    "version": 4
+}
